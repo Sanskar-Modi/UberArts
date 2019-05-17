@@ -214,7 +214,7 @@ public class HomeActivity extends AppCompatActivity implements NavigationView.On
 
     @Override
     public void onDescItemClick() {
-
+        Log.d(TAG, "onDescItemClick() called");
     }
 
     @Override
