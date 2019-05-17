@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1084968487306",
+    "firebase_url": "https://uberarts-73f14.firebaseio.com",
+    "project_id": "uberarts-73f14",
+    "storage_bucket": "uberarts-73f14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084968487306:android:c25dac100c43fb8c",
+        "android_client_info": {
+          "package_name": "com.example.sanskarmodi.uberarts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084968487306-pnaj6t2dljrmetumogadva88crqcim97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanskarmodi.uberarts",
+            "certificate_hash": "38856923a470f36deac8d85ef67a8c2feea24d6f"
+          }
+        },
+        {
+          "client_id": "1084968487306-5ssupa1j6dh33aqs6b8bq1d23g70srbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ViXCErdsbBdeJORInup5wlPsqLM3Wcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084968487306-5ssupa1j6dh33aqs6b8bq1d23g70srbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

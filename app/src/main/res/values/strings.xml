@@ -1,0 +1,46 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">UberArts</string>
+    <string name="facebook_app_id">1015284851991815</string>
+    <string name="fb_login_protocol_scheme">fb1015284851991815</string>
+    <string name="signup_example">Signup_Example</string>
+    <string name="login_example">Login_Example</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="client_id">1084968487306-pnaj6t2dljrmetumogadva88crqcim97.apps.googleusercontent.com</string>
+    <string name="wclient_id">1084968487306-5ssupa1j6dh33aqs6b8bq1d23g70srbr.apps.googleusercontent.com</string>
+    <string name="title_activity_nav_drawer">NavDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="artgallery">Art Gallery</string>
+    <string name="artgallerydesc">An art museum or art gallery is a building or space for the display of art, usually from the museum\'s own collection. It might be in public or private ownership and may be accessible to all or have restrictions in place. Although primarily concerned with visual art, art galleries are often used as a venue for other cultural exchanges and artistic activities, such as performance arts, music concerts, or poetry readings. Art museums also frequently host themed temporary exhibitions which often include items on loan from other collections.</string>
+
+
+    <string name="artworkshop">Art Workshop</string>
+    <string name="artworkshopdesc">A studio is an artist or worker\'s workroom. This can be for the purpose of acting, architecture, painting, pottery (ceramics), sculpture, origami, woodworking, scrapbooking, photography, graphic design, filmmaking, animation, industrial design, radio or television production broadcasting or the making of music. The term is also used for the workroom of dancers, often specified to dance studio.</string>
+
+
+    <string name="calligraphyclasses">Calligraphy Classes</string>
+    <string name="calligraphyclassesdesc">Calligraphy continues to flourish in the forms of wedding invitations and event invitations, font design and typography, original hand-lettered logo design, religious art, announcements, graphic design and commissioned calligraphic art, cut stone inscriptions, and memorial documents. It is also used for props and moving images for film and television, and also for testimonials, birth and death certificates, maps, and other written works</string>
+
+
+    <string name="customartprogram">Custom Art Program</string>
+    <string name="customartprogramdesc">Custom Art Program</string>
+
+    <string name="kidsartclass">Kids Art Classes</string>
+    <string name="kidsartclassdesc">Kids Art Classes</string>
+
+    <string name="artclasses">Art Classes</string>
+    <string name="artclassesdesc">An art school is an educational institution with a primary focus on the visual arts, including fine art, especially illustration, painting, photography, sculpture, and graphic design. Art schools can offer elementary, secondary, post-secondary, or undergraduate programs, and can also offer a broad-based range of programs (such as the liberal arts and sciences). </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".TimeSlot">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Time"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+
+    <android.support.design.chip.ChipGroup
+        android:id="@+id/time_chips"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|center_horizontal"
+        app:singleSelection="true"
+        android:layout_marginTop="55dp">
+
+        <android.support.design.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:tag="12"
+            android:text="01 -02 pm" />
+
+        <android.support.design.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:tag="23"
+            android:text="02 -03 pm" />
+
+        <android.support.design.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:tag="34"
+            android:text="03 -04 pm" />
+        <android.support.design.chip.Chip
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            style="@style/Widget.MaterialComponents.Chip.Choice"
+            android:tag="45"
+            android:text="04 -05 pm" />
+    </android.support.design.chip.ChipGroup>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Proceed to pay"
+        android:layout_gravity="bottom"
+        android:background ="@drawable/btn_round_bg"
+        android:backgroundTint="@color/colorToolbarBG"/>
+
+</FrameLayout>
